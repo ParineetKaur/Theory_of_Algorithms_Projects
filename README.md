@@ -14,6 +14,9 @@ This repository contains a collection of projects completed as part of my Theory
 
 ## Course References
 📖 Introduction to the Design and Analysis of Algorithms, 3rd edition
-![Textbook Image](https://www.pearson.com/store/medias/-A1030-00-26-90-A103000269023-A103000269023-Lrg.jpg-size-W370?context=bWFzdGVyfGltYWdlc3wyNDc3MTd8aW1hZ2UvanBlZ3xzeXMtbWFzdGVyL2ltYWdlcy9oODUvaGQ1LzExOTEyMDIyMzkyODYyL0ExMDMwLzAwLzI2LzkwL0ExMDMwMDAyNjkwMjMvQTEwMzAwMDI2OTAyM19McmcuanBnX3NpemVfVzM3MHwwOWFlNTBkOTI3OTA0MjIxMjc1MDkxOGJkYTM1ODhlZWZkYzllYzlkYTIzZDI4MjgwYTliMjI1MGM3MjBmNzc1)
-
+<div>
+<div style="border: 1px solid #ccc; padding: 10px;">
+  <img src="https://www.pearson.com/store/medias/-A1030-00-26-90-A103000269023-A103000269023-Lrg.jpg-size-W370?context=bWFzdGVyfGltYWdlc3wyNDc3MTd8aW1hZ2UvanBlZ3xzeXMtbWFzdGVyL2ltYWdlcy9oODUvaGQ1LzExOTEyMDIyMzkyODYyL0ExMDMwLzAwLzI2LzkwL0ExMDMwMDAyNjkwMjMvQTEwMzAwMDI2OTAyM19McmcuanBnX3NpemVfVzM3MHwwOWFlNTBkOTI3OTA0MjIxMjc1MDkxOGJkYTM1ODhlZWZkYzllYzlkYTIzZDI4MjgwYTliMjI1MGM3MjBmNzc1" alt="Textbook Image">
+</div>
+<div>
 Thank you for visiting this repository!
